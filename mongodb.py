@@ -88,7 +88,7 @@ def transform_video_df(video_df):
     video_df['published_at'] = pd.to_datetime(video_df['published_at'], format="%Y-%m-%dT%H:%M:%SZ")
     video_df['view_count'] = video_df['view_count'].astype(np.int64)
     video_df['like_count'] = video_df['like_count'].astype(np.int64)
-    video_df['dislike_count'] = video_df['dislike_count'].astype(np.int64)
+    video_df['dislike_count'] = video_df['dislike_count'].astype(int)
     video_df['favorite_count'] = video_df['favorite_count'].astype(int)
     video_df['comment_count'] = video_df['comment_count'].astype(np.int64)
 

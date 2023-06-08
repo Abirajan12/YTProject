@@ -90,9 +90,11 @@ On a high level note, the project has 4 sections for which the below packages ar
 ## 4. Documentation
 
 [API reference ](https://blog.hubspot.com/website/how-to-get-youtube-api-key)
+
 [Virtual environment creation ](https://stackoverflow.com/questions/61944862/vs-code-not-able-to-recognize-sqlalchemy)
+
 [MongoDB Atlas cluster creation and connection string ](https://medium.com/analytics-vidhya/connecting-to-mongodb-atlas-with-python-pymongo-5b25dab3ac53#:~:text=Start%20by%20creating%20a%20new,connect%20to%20a%20MongoDB%20database.&text=Connect%20the%20cluster%20using%20the,and%20password%20in%20this%20URL.)
 
 ## 5. Demo
 
-[Youtube Data Harvesting and Warehousing]<link will be added shortly>
+[Youtube Data Harvesting and Warehousing](https://www.linkedin.com/posts/abirami-rengarajan-4b017b27a_youtube-datascrapping-datascientist-activity-7072548039969665024-hISa?utm_source=share&utm_medium=member_desktop)

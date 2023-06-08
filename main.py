@@ -13,7 +13,7 @@ def get_YT_Data():
     
     # Retrieving all the details related to the channel ID
     if button_Clicked:
-            st.write("API Key is "+api_Key)
+            st.write("API Key Received")
 
     # Getting the channel id
     channel_Id = st.sidebar.text_input("Enter the Channel ID:")
